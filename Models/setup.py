@@ -7,5 +7,5 @@ setup(name='models',
       author='yugansh',
       author_email='yuganshmarwah@gmail.com',
       license='AA',
-      packages=['funniest'],
+      packages=['models'],
       zip_safe=False)
